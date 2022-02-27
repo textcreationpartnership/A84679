@@ -1,0 +1,875 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VVine and women or A briefe description of the common courtesie of a curtezan. Written solely for the benefit of immodest and intemperate youth.</title>
+            <author>E. F. (Edward Ford), fl. 1630?-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84679</idno>
+            <idno type="STC">Wing F1462</idno>
+            <idno type="STC">Thomason E1189_12</idno>
+            <idno type="STC">ESTC R208289</idno>
+            <idno type="EEBO-CITATION">99867249</idno>
+            <idno type="PROQUEST">99867249</idno>
+            <idno type="VID">119554</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84679)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119554)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1189[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>VVine and women or A briefe description of the common courtesie of a curtezan. Written solely for the benefit of immodest and intemperate youth.</title>
+                  <author>E. F. (Edward Ford), fl. 1630?-1660.</author>
+               </titleStmt>
+               <extent>30, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Hammond,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647. [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The authors  apologie" signed: Ed. Foord.</note>
+                  <note>Annotation on Thomason copy: "Dec: 3d 1646"; the 7 in the imprint date has been crossed out and replaced with "1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Thomason recieved his copy in December 1646.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wine --  Early works to 1800.</term>
+               <term>Women --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119554:1" rendition="simple:additions"/>
+            <p> VVINE AND WOMEN: OR A briefe Deſcription of the common courteſie of a <hi>Curtezan.</hi> Writ<g ref="char:EOLhyphen"/>ten ſolely for the benefit of immodeſt and intemperate YOUTH.</p>
+            <p>Cavete autem vobis: <q>Take heed to your ſelves, lest at any time your hearts be over-charged with Surfeting &amp; Drunkennes, <bibl>Luk. 21. 34</bibl>
+               </q> 
+               <hi>We ſee that</hi> Lot, <hi>of whom</hi> Origen <hi>ſaith,</hi> Ebri<g ref="char:EOLhyphen"/>etas decipet quem Sodoma non decipet.</p>
+            <p>Here's neither Wine, nor yet good Women blam'd, Though't may bee in a place or two they'r nam'd: Wine ſhould accilerate our Thoughts above, And make us hate the very thing we love.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>John Hammond,</hi> 1647.</p>
+            <pb facs="tcp:119554:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:119554:2"/>
+            <head>To the Honourable <hi>Robert Walloppe</hi> Eſquire, one of the Right Honour<g ref="char:EOLhyphen"/>able Committee of both Kingdoms, and a wor<g ref="char:EOLhyphen"/>thy Member of the Honourable Houſe of COMMONS.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Muſt either without prolixity, or flattery, confeſſe that I have received from time to time very many ſingular and large favours from you and truly I was thinking and preme<g ref="char:EOLhyphen"/>ditating with my ſelfe, what I might do to make it manifeſt appeare. I willingly would make re<g ref="char:EOLhyphen"/>quitall, in ſome meaſure, if I were able, and yet this Duty troubled me the leſſe, in regard with noble and Heroick Minds, still for the moſt part, where the deed is wanting, the Will compleats the Worke. Yet I muſt confeſſe 'tis very meet, that Charities eyes be open as well as her hands; though ſhe gives away the Branches, not to part with the Root. <hi>Honour'd Sir,</hi> I do ingeniouſly confeſſe my ſelfingag'd to you, &amp; for your Love: you may conceive it ſtrange I ſhould
+<pb facs="tcp:119554:3"/> preſent you with a preſent that you do not love; yet <hi>Kind Sir,</hi> ſo it is, for I have tendred to you both the exceſse of <hi>Wine,</hi> and a Company of Wanton <hi>Women,</hi> and how you do affect the one or reſpect the other<g ref="char:punc">▪</g> your Life and Converſation certificats, as farre as <hi>Phebus</hi> commonly doth lend his Glorious and most Radiant Rayes. I would your unworthy Servant were as free, for I muſt confeſſe both to Gods glory and my owne ignomie, unleſſe he pleaſe to cover it with the Mantle of Christs mercy, that the exceſse of <hi>VVine,</hi> inordinate affections, chambering and wantonneſse, hath bin habituall with me; but I hope that it will be ſufficient, that I have ſpent the time paſt of my Life, walking in Wanton<g ref="char:EOLhyphen"/>neſse, Riot, Surfeting, and Drunkenneſſe. <hi>Hon<g ref="char:EOLhyphen"/>our'd Sir,</hi> I doubt I am too tedious, I am ſure I have bin ſo in my Tranſgreſſions: Yet ere I part, I would intreat your lenity to patronizle my little ſmall <hi>Enchiridion,</hi> whilſt I by Gods aſſiſt<g ref="char:EOLhyphen"/>ance ſhall endeavour to improve my intereſt in the Lord, and my favour in your Love, And Rest </p>
+            <closer>
+               <signed>Your aſſured Servant to command, <hi>Ed. Foord.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:119554:3"/>
+            <head>To the courteous <hi>Reader.</hi>
+            </head>
+            <lg>
+               <l>
+                  <hi>READER</hi> conſider, as a little Clay</l>
+               <l>In time will fade, and moulder all away,</l>
+               <l>Even ſo conceive that truth this reaſon gives,</l>
+               <l>In time will fade the ſweeteſt ſweet that lives:</l>
+               <l>And therefore as thou tend'reſt Gods honour,</l>
+               <l>Ne're let a thought that's ill reflect upon her,</l>
+               <l>But ſee without delay that thou apply'ſt,</l>
+               <l>To fix 'em on thy proper obiect, Chriſt:</l>
+               <l>So ſhall thy Tranſmigration happy be</l>
+               <l>Both to thy Selfe, and thy Poſteritie.</l>
+            </lg>
+            <closer>
+               <signed>Thine in the Lord, <hi>Ed. Foord.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:119554:4"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="7" facs="tcp:119554:4"/>
+            <head>VVine and Women.</head>
+            <lg>
+               <l>IT is the affection ſome men beare to Wine,</l>
+               <l>That hinders their immergent duties ſtill,</l>
+               <l>And makes them by degrees for to decline;</l>
+               <l>From Actions that are good, to thoſe are ill:</l>
+               <l>And truely I conceive without diſtaſt,</l>
+               <l>'Tis hard to find a Drunkard that is chaſt.</l>
+            </lg>
+            <q>Woe to the Crowne of Pride, the Drunkards of <hi>Ephraim,</hi> for his Glorious Beauty ſhall be a fading Flower, which is upon the head of the vally of them that be fat, and over-come with VVine: for all their tables are full of filthy vomiting, no place is cleane. <bibl>Iſa. 28. 1. 8.</bibl>
+            </q>
+            <lg>
+               <l>And likewiſe 'tis the love that ſome men beare</l>
+               <l>To wanton Women, that undoe them ſtill;</l>
+               <l>For let them ſpeculate a face that's faire,</l>
+               <l>And pray how ſoone are they induc'd to ill?</l>
+               <l>And therefore 'tis a moſt apparent ſigne,</l>
+               <l>He that loves women, doubtles favours wine.</l>
+            </lg>
+            <q>Did not <hi>Solomon</hi> the King of <hi>Jſrael</hi> ſin by theſe things? yet among many Nations was there no King like him: for he was beloved of his God, and God
+<pb n="8" facs="tcp:119554:5"/> had made him King of <hi>Jſrael,</hi> yet strange women cauſed him to ſin. <bibl>Nehe. 13. 26.</bibl>
+            </q>
+            <lg>
+               <l>Beſides, 'tis Wine that makes a man of ſtrength</l>
+               <l>So imbecil and weake he cannot ſtand,</l>
+               <l>But meaſures his owne way by his owne length,</l>
+               <l>For downe he is i'th' turning of a hand:</l>
+               <l>Let reaſon be expuls'd, and Wine take place;</l>
+               <l>A man will reele to ruine a good pace.</l>
+            </lg>
+            <q>Therefore thou ſhalt ſay unto them, thus ſaith the Lord God of <hi>Jſrael</hi> Every bottle ſhall be filled with wine, and they ſhall ſay unto thee, do we not know that every bottle ſhall be filled with wine, and all the In<g ref="char:EOLhyphen"/>habitants with drunkenneſſe, &amp; I will daſh them one againſt another, even the father and the ſonne toge<g ref="char:EOLhyphen"/>ther, ſaith the Lord, <bibl>Jer. 13 12. 13. 14.</bibl>
+            </q>
+            <lg>
+               <l>Beſides, 'tis Women in the heat of Wine</l>
+               <l>That cooles mans duty to his bountious God.</l>
+               <l>And ne're permits his glim'ring light to ſhine</l>
+               <l>He had directions for to ſpread abroad;</l>
+               <l>Me thinkes a Woman that is ſweet and faire,</l>
+               <l>Should never ſell her skin to make a Snare.</l>
+            </lg>
+            <q>And after this he loved a woman by the Rive<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Sorek,</hi> whoſe name was <hi>Delilah,</hi> unto whom came the Princes of the <hi>Philiſtims,</hi> and ſaid unto her, in<g ref="char:EOLhyphen"/>tice him and ſee wherein his great ſtrength lyes, and by what meanes we may over-come him, and puniſh him,&amp; every one of us ſhall give thee eleven hundred ſhekels of ſilver, <bibl>Judges 16. 4. 5.</bibl>
+            </q>
+            <lg>
+               <pb n="9" facs="tcp:119554:5"/>
+               <l>When Wine has fill'd the braine and belly full,</l>
+               <l>Then man is put immediate to a <hi>Nonplus,</hi>
+               </l>
+               <l>And all his ſacrifices they prove dull,</l>
+               <l>Being as ſleepy ſtill as <hi>Eutichus:</hi>
+               </l>
+               <l>Down ſtreet he ſquats, and down he hangs his head,</l>
+               <l>And hear's a funerall ſermon like one dead.</l>
+            </lg>
+            <q>For thus hath the Lord God of <hi>Jſrael</hi> ſpoken un<g ref="char:EOLhyphen"/>to me, Take the cup of wine of this mine indignation at mine hand, and cauſe all the Nations to whom I ſend thee to drinke it, and they ſhall drinke, and bee moved, and be mad, becauſe of the ſword that I ſhall ſend among them. <bibl>Jer. 25, 15. 16.</bibl>
+            </q>
+            <lg>
+               <l>'Tis wanton VVomen make men idoliſe,</l>
+               <l>And their bought beauty too much to adore,</l>
+               <l>The fooliſh man can ſay he is not wiſe,</l>
+               <l>That wilfully doth run his Ship aſhore,</l>
+               <l>I would not have a man that is diſcreet,</l>
+               <l>Trample his knowledge underneath his feet.</l>
+            </lg>
+            <q>But King <hi>Solomon</hi> loved many out-landiſh wo<g ref="char:EOLhyphen"/>men, both the daughter of <hi>Pharaoh,</hi> and women of <hi>Moab, Ammon Edom, Zidon,</hi> and <hi>He<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h.</hi> and hee had ſeven hundred wives that were Prin<g ref="char:EOLhyphen"/>ceſſes, and three hundred Concubines, and his wives turned away his heart from God. <bibl>1 Kings 11. 1. 3.</bibl>
+            </q>
+            <lg>
+               <l>And it is Wine we manifeſt'y find,</l>
+               <l>That makes us wanton in theſe mournfull times,</l>
+               <l>Having no index of a penſive mind,</l>
+               <l>But breviate our dayes with paultry Rimes:</l>
+               <pb n="10" facs="tcp:119554:6"/>
+               <l>Take heed of being private with a Woman,</l>
+               <l>But chiefly if her looks proclaime her common.</l>
+            </lg>
+            <q>And the Daughter of the ſame <hi>Herodias</hi> came in and danced, and pleaſeed <hi>Herod,</hi> and them that ſat at table together: the King ſaid unto the Maid, aske of me what thou wilt, and I will give it thee? So ſhe went forth and ſaid unto her mother, what ſhal I aske? And ſhe ſaid, <hi>John Baptiſts</hi> Head. <bibl>Mark 6. 22. 24.</bibl>
+            </q>
+            <lg>
+               <l>It is your vicious VVomen oft inclines</l>
+               <l>Men for to ride a hundred mile together,</l>
+               <l>Onely to expiate their Luſt and Mindes,</l>
+               <l>That is more lighter then the Peacocks feather:</l>
+               <l>Two'd puzzell one to underſtand their meanings,</l>
+               <l>That they ſhould have the crop, &amp; God the glean<g ref="char:EOLhyphen"/>ings.</l>
+            </lg>
+            <q>And when <hi>Phineas</hi> the ſon of <hi>Eliazar,</hi> the ſon of <hi>Aaron</hi> the Prieſt ſaw it, he roſe up from the midst of the congregation, and tooke a Speare in his hand, and followed the man of <hi>Jſrael</hi> into the Tent, and thruſt them both thorow, to wit, the man of <hi>Jſrael</hi> &amp; the woman through the belly; ſo the plague ceaſed from the Children of Jſrael. <bibl>Num. 25. 7. 8.</bibl>
+            </q>
+            <lg>
+               <l>It is conſpicuous, evident and true,</l>
+               <l>That the exceſſe of Wine makes men abſurd,</l>
+               <l>And beckens them for to be careleſſe too,</l>
+               <l>In thoſe ſoliloques that pleaſe the Lord:</l>
+               <l>A drunken man doth ſeldome care two ſtrawes,</l>
+               <l>Either for Maker, or his Makers Lawes.</l>
+            </lg>
+            <q>
+               <pb n="11" facs="tcp:119554:6"/> 
+               <hi>Noah</hi> alſo began to be an Husband-man, and planted a Vineyard, and he dranke of the wine, and was drunken and was uncovered in the midſt of his Tent. <bibl>Gen. 9, 20. 21.</bibl>
+            </q>
+            <lg>
+               <l>Every ſin that man commits alone,</l>
+               <l>Tends doubtleſſe to his onely prejudice,</l>
+               <l>And he it is that ſolely ſhould bemone<g ref="char:punc">▪</g>
+               </l>
+               <l>His ſlighting of the heavenly Paradiſe:</l>
+               <l>But where <hi>Zimri</hi> and <hi>Co<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bi</hi> joyned be,</l>
+               <l>Ther's double ſinnes againſt the Trinitie.</l>
+            </lg>
+            <q>Then he ſaid, what is the pledge that I ſhall give thee? And ſhe anſwered thy ſignet, and thy cloake, and the ſtaffe that is in thine hand: So hee gave it her, and lay by her, and ſhe was with child by him. <bibl>Gen. 38. 18.</bibl>
+            </q>
+            <lg>
+               <l>'Tis VVine that makes the quinteſſence of love</l>
+               <l>Depart from the right object of the ſame,</l>
+               <l>And that reciprocall affection move,</l>
+               <l>That ſhould the eſſence of our Soules, maintaine:</l>
+               <l>Wine makes men ſtrong, and in that ſtrength ſo blind,</l>
+               <l>That we impart part on't to women-kind.</l>
+            </lg>
+            <q>So they made their father drinke wine that night alſo, and the younger aroſe and lay with him, but he perceived not when ſhe aroſe, nor when ſhe lay downe. <bibl>Gen. 19. 35. 36.</bibl>
+            </q>
+            <lg>
+               <l>It is your Women that 's ſo coy and nice,</l>
+               <l>That deck themſelves in mantles, caules<g ref="char:punc">▪</g> &amp; wimples</l>
+               <pb n="12" facs="tcp:119554:7"/>
+               <l>And ne're leaves painting of a peece of Vice,</l>
+               <l>Till they have fill'd their faces full of pimples:</l>
+               <l>It would be ſtrange, to ſee one faire and poore,</l>
+               <l>That were not envious, proud, nor yet a whore,</l>
+            </lg>
+            <q>The Lord alſo ſaith, becauſe the daughters of <hi>Sion</hi> are hauty and walke with stretched-out necks, and with wandering eyes, walking and minſing as they goe, and making a tinckling with their feet: Therefore ſhall the Lord make the heads of the daughters of <hi>Sion</hi> bald, and the Lord ſhall diſcover their ſecret parts; in that day ſhall the Lord take a<g ref="char:EOLhyphen"/>way the Ornament of the ſlippers, and the caules, and the round tyres. <bibl>Jſa. 3. 16. 17. 18.</bibl>
+            </q>
+            <lg>
+               <l>'Tis the exceſſe of VVine that makes men frame</l>
+               <l>Their actions ſo promiſcuouſly and rude,</l>
+               <l>Procuring to themſelves a hatefull name,</l>
+               <l>Whilſt they continue in their drunken Mood:</l>
+               <l>For little Children when they do 'em meet,</l>
+               <l>Poynt at them with their fingers in the ſtreet.</l>
+            </lg>
+            <q>Then <hi>David</hi> called him, and he did eat and drinke before him, and he made him drunke, and at even he went out to lye on his Couch with the Servants of his Lord, but went not downe to his Houſe. <bibl>2 Sam. 11. 13.</bibl>
+            </q>
+            <lg>
+               <l>'Tis wanton VVomen that reſemble moſt</l>
+               <l>The labouring ſurges of the troubled Sea,</l>
+               <l>For if their humourous humours be but croſt,</l>
+               <l>Nothing but emulation is their plea;</l>
+               <pb n="13" facs="tcp:119554:7"/>
+               <l>And be your fortunes either high or low,</l>
+               <l>Nothing contents 'em but your overthrow.</l>
+            </lg>
+            <q>Now therefore ſlay all the males among the chil<g ref="char:EOLhyphen"/>dren, and kill all the women that have knowne man by carnall copulation, but all the women children that have not knowne carnall copulation, keepe a<g ref="char:EOLhyphen"/>live for your ſelves. <bibl>Num. 31. 17. 18.</bibl>
+            </q>
+            <lg>
+               <l>Exceſſe of Wine 'tis probable and true,</l>
+               <l>Deprives our great Creatour of a Heart,</l>
+               <l>And makes a man moſt earneſtly purſue</l>
+               <l>That which in time will aggravate his ſmart:</l>
+               <l>Then who would be a drunkard, that's bereaven</l>
+               <l>And quite excluded from the joyes of Heaven?</l>
+            </lg>
+            <q>VVoe unto him that gives his neighbour drinke, thou joyneſt thine heat and makeſt him drunken alſo, that thou mayest ſee their privities. <bibl>Hab. 2. 15.</bibl>
+            </q>
+            <lg>
+               <l>The beauty of a VVoman makes a Man</l>
+               <l>Often forget the Author of the ſame;</l>
+               <l>If it be ſo, as ſo it is, why than.</l>
+               <l>Each one will vote this creature much too blame:</l>
+               <l>Beauty hath many one ſo blindly led,</l>
+               <l>They have forgot where it was borne or bred.</l>
+            </lg>
+            <q>And ſhalt ſee among the captives a beautifull woman, and haſt a deſire unto her and wouldſt take her to thy wife: Then thou ſhalt bring her home to thine houſe: and ſhe ſhall ſhave her head, and pare her nayles. <bibl>Deut. 21. 11. 12.</bibl>
+            </q>
+            <lg>
+               <pb n="14" facs="tcp:119554:8"/>
+               <l>The ſtrength of Wine doth ſo intoxicate</l>
+               <l>The Memory of many now adayes,</l>
+               <l>That they affect to prattle, talke, and prate,</l>
+               <l>And without licence publiſh forth their praiſe:</l>
+               <l>If you let Wine too often charge your braine<g ref="char:punc">▪</g>
+               </l>
+               <l>'Tis ten to one you charge, where you'l be ſlain.</l>
+            </lg>
+            <q>And his ſervant <hi>Zimri,</hi> Captaine of halfe his Charets, conſpired againſt him as he was in <hi>Tirzah,</hi> drinking till he was drunken, in the houſe of <hi>Arza.</hi> ſteward of his houſe in <hi>Tirzah,</hi> and <hi>Zimri</hi> came &amp; ſmote him in the ſeven and twentieth year of <hi>Aſa</hi> K. of <hi>Judah,</hi> and reigned in his ſtead. <bibl>1 Kings 16. 9. 10.</bibl>
+            </q>
+            <lg>
+               <l>The quick and rolling eyes of ſome ſpruce Dames</l>
+               <l>Invites a man to kindle <hi>Cupids</hi> fires,</l>
+               <l>And afterwards to ſcorch him in the flames,</l>
+               <l>Which is as much perchance as ſhe deſires:</l>
+               <l>For any love that's tendred to them chaſt,</l>
+               <l>Is made too ſtraight and narrow for their waſt.</l>
+            </lg>
+            <q>The tender and dainty woman among you, which never would venture to ſet the ſole of her foot on the ground for her ſoftneſſe and tenderneſſe, ſhall be grieved at her husband that lyes in her boſome, and at her ſon, and at her daughter. <bibl>Deut. 28. 56.</bibl>
+            </q>
+            <lg>
+               <l>Weake ones ſhould never love for to contend</l>
+               <l>With things that are ſo powerfull and ſtrong,</l>
+               <l>'Tis better for them gently for to bend,</l>
+               <l>Then to ſtand out and do themſelues more wrong:</l>
+               <l>The ſtrength of wine hath conquer'd more by far,</l>
+               <l>Then <hi>Alexander</hi> ever did by warre.</l>
+            </lg>
+            <q>
+               <pb n="15" facs="tcp:119554:8"/> And they went out at noone, but <hi>Benhadad</hi> did drinke till he was drunken in th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Tent, both he and the Kings, for two and thirty Kings helped him, and they ſlew every one his enemy, and the <hi>Aramites</hi> fled, and <hi>Jſrael</hi> purſued them, but <hi>Benhadad</hi> the King of <hi>Aram</hi> eſcaped on a horſe. <bibl>1 Kings 20. 16. 20</bibl>
+            </q>
+            <lg>
+               <l>Man would not thinke, to glance a luſtfull thought</l>
+               <l>Upon a Woman were ſo ſad a thing,</l>
+               <l>Yet the <hi>Meſſiah</hi> tells us it is nought,</l>
+               <l>And that it much diſtaſtes our Heavenly King;</l>
+               <l>Lord of thy mercy never let my eyes</l>
+               <l>Love to behold ſo ſad a ſacrifice.</l>
+            </lg>
+            <q>And when it was even-tide, <hi>David</hi> aroſe out of his bed, and walked upon the roofe of the Kings Palace and from the roofe he ſaw a woman waſhing her ſelfe; and the woman was very beautifull to looke upon: Then <hi>David</hi> ſent Meſſengers, and tooke her away, &amp; ſhe came unto him, &amp; he lay with her, and the woman conceived, therefore ſhe ſent and told <hi>David,</hi> and ſaid I am with child. <bibl>2 Sam. 11. 2. 4. 5.</bibl>
+            </q>
+            <lg>
+               <l>'Tis Wine that makes the illiterate to indite,</l>
+               <l>As though he had dranke hard at <hi>Helicon,</hi>
+               </l>
+               <l>And oftentimes ſuch pleaſing ſtraines to write,</l>
+               <l>That to ſay truth, it would admire one:</l>
+               <l>And makes ye to believe, if you want skill,</l>
+               <l>He came but lately from <hi>Parnaſſus</hi> Hill.</l>
+            </lg>
+            <q>Hee cauſeth graſſe to grow for the Cattell, and
+<pb n="16" facs="tcp:119554:9"/> herbe for the uſe of Man, that he may bring fort<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bread out of the earth: and wine that maketh gla<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the heart of man, and oyle to make the face to ſhine and bread that ſtrengthneth mans heart. <bibl>Pſa. 104<g ref="char:punc">▪</g> 14. 15.</bibl>
+            </q>
+            <lg>
+               <l>Women they ſay the weaker Veſſells are;</l>
+               <l>If ſo, it is a Paradox to me,</l>
+               <l>That thoſe that never were train'd up in warre,</l>
+               <l>So often ſhould obtaine the victorie:</l>
+               <l>For your faire women ſtill in every place</l>
+               <l>Do conquer valiant men with their bare Face.</l>
+            </lg>
+            <q>To bring Queene <hi>Vaſhti</hi> before the King with the crowne royall, that he might ſhew the people and the Princes her beauty: for ſhe was faire to looke upon. But Queene <hi>Vaſhti</hi> refuſed to come at the Kings word, which he had given in charge to the eunuchs: therefore the King was very angry, and his wrath kindled in him. <bibl>Eſter 1. 11. 12.</bibl>
+            </q>
+            <lg>
+               <l>'Tis Wine that makes the deareſt friends that are</l>
+               <l>To be at odds and ſometimes diſagree,</l>
+               <l>And uſher forth the bitter Caracter</l>
+               <l>Both of a Coward and an Enemie:</l>
+               <l>So in concluſion, nothing but their Swords</l>
+               <l>Muſt vindicate their fond and fooliſh words.</l>
+            </lg>
+            <q>VVine is a mocker, and ſtrong drinke is raging: and whoſoever is deceived thereby, is not wiſe. <bibl>Pro. 20. 1.</bibl>
+            </q>
+            <lg>
+               <pb n="17" facs="tcp:119554:9"/>
+               <l>Sometimes it is the whiteneſſe of a hand</l>
+               <l>That doth contaminate mans heart ſo foule;</l>
+               <l>Becauſe he doth not mind the great command</l>
+               <l>God dictats to him, to preſerve his Soule:</l>
+               <l>Me thinkes an object that is fair and white,</l>
+               <l>Should never guide me wrong, but lead me right.</l>
+            </lg>
+            <q>Heare me now therefore, O my Children, and hearken to the words of my mouth. Let not thine heart incline to her wayes: wander thou not in her paths; For ſhe hath cauſed many to fal down wounded, and the strong men are all ſlaine by her. <bibl>Pro. 7. 24. 25. 26.</bibl>
+            </q>
+            <lg>
+               <l>Some men there be, that commonly preferre<g ref="char:punc">▪</g>
+               </l>
+               <l>Flagons of Wine before their reall good,</l>
+               <l>And to commix their choyſeſt Wine with myrrhe,</l>
+               <l>Under pretence for to revive their blood:</l>
+               <l>But why ſhould Wine ingage me to forget,</l>
+               <l>And quite extinguiſh reaſon and my wit?</l>
+            </lg>
+            <q>Woe unto them, that riſe up early to follow drunkenneſſe, and to them that continue untill night, till the Wine do inflame them: And the harpe, and viole, timbrel, and pipe, and wi<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> are in their Feaſts; but they regard not the worke of the Lord, neither conſider the worke of his hands. <bibl>Iſa. 5. 11. 12.</bibl>
+            </q>
+            <lg>
+               <l>VVomen are cunning Creatures, that we muſt</l>
+               <pb n="18" facs="tcp:119554:10"/>
+               <l>Grant for a truth, and no exceptions made,</l>
+               <l>For they have drill'd too many to the duſt,</l>
+               <l>That by their night-intreaties have bin ſway'd:</l>
+               <l>Nay, puiſſant Princes have bin ſubject ſtill</l>
+               <l>To the commands of women and their will.</l>
+            </lg>
+            <q>A wiſe woman buildeth her houſe: but the fooliſh deſtroyeth it with her owne hands. <bibl>Pro. 14. 1.</bibl>
+            </q>
+            <lg>
+               <l>'Tis VVine that makes the Begger to forget,</l>
+               <l>And quite disband all thoughts of poverty,</l>
+               <l>Yet ſuddainly deprives him of his wit,</l>
+               <l>In his approaches to iocundity:</l>
+               <l>It makes him in a time of ſorrow ſing,</l>
+               <l>And to conceive, he is a little King.</l>
+            </lg>
+            <q>My heart breakes within me, becauſe of the Prophets, all my Bones ſhake: I am like a drunken man, (and like a man whom Wine hath over-come,) for the preſence of the Lord and for his holy words, For the Land is full of Adulterers, and becauſe of oathes the Land mourneth. <bibl>Ier. 23. 9. 10.</bibl>
+            </q>
+            <lg>
+               <l>The twinkling eyes of VVomen do put out<g ref="char:punc">▪</g>
+               </l>
+               <l>Thoſe eyes that do behold 'em, which is ſtrange,</l>
+               <l>And yet this Metaphor is true no doubt,</l>
+               <l>VVhen mens aſpects laſciviouſly do range:</l>
+               <l>Inhetently my thoughts are very foule,</l>
+               <l>Lord regulate my thoughts, and ſave a Soule.</l>
+            </lg>
+            <q>
+               <pb n="19" facs="tcp:119554:10"/> Ye have heard, that it was ſaid to them of old time, Thou ſhalt not commit adultery: But I ſay unto you, that whoſoever lookes after a Woman to luſt after her, hath committed adul<g ref="char:EOLhyphen"/>tery already with her in his heart. <bibl>Matthew 5. 27. 28.</bibl>
+            </q>
+            <lg>
+               <l>A man in Wine is fit for any ill,</l>
+               <l>That <hi>Satan</hi> can ſuggeſt or tempt him to;</l>
+               <l>For if he be inrag'd, hee'le fight or kill,</l>
+               <l>Nay, he will do what you will have him do:</l>
+               <l>And yet the Boyes of <hi>Bacchus</hi> now adaies,</l>
+               <l>What'ere they loſe, purchaſe a world of praiſe.</l>
+            </lg>
+            <q>And <hi>Nabals</hi> heart was merry within him, for hee was very drunken: wherefore ſhe told him nothing, neither leſſe nor more, untill the morning aroſe. Then in the morning, when the Wine was gone out of <hi>Nabal,</hi> his wife told him thoſe words, and his heart died within him, and he was like a ſtone. <bibl>1 Sam. 25. 36. 37.</bibl>
+            </q>
+            <lg>
+               <l>'Tis wanton Women, as they ſee you paſſe,</l>
+               <l>Wo'd call you by your name if they knew how,</l>
+               <l>Saying, ſurely I have ſeene you; when alas</l>
+               <l>'Tis but a tricke to make your vertue bow:</l>
+               <l>For when ſhe hath you where ſhe would deſire,</l>
+               <l>Shee'le bring hot water to augment your fire.</l>
+            </lg>
+            <q>A fooliſh woman ſhe is troubleſome: ſhe is ig<g ref="char:EOLhyphen"/>norant,
+<pb n="20" facs="tcp:119554:11"/> and knowes nothing: She ſitteth at the door<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of her houſe one ſeat in the high places of the Citie<g ref="char:punc">▪</g> to call them that paſſe by the way, that go right <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> their way. <bibl>Pro. 9. 13. 14. 15.</bibl>
+            </q>
+            <lg>
+               <l>'Tis the exceſſe of Wine that makes men ſteale</l>
+               <l>Into your brothel-houſes when 'tis Night,</l>
+               <l>Thinking thereby their actions to conceale</l>
+               <l>From Gods eternall and moſt Radiant ſight:</l>
+               <l>But ſure no curtains can blind-fold his Face,</l>
+               <l>That views the reines, and ſees in every place:</l>
+            </lg>
+            <q>I ſought in mine heart to give my ſelfe to wine, and to lead my heart in wiſdome, and to take hold of follie, till I might ſee where is that goodneſſe of the Children of men, which they enjoy under the ſunne the whole number of the dayes of their life. <bibl>Eccl. 2. 3</bibl>
+            </q>
+            <lg>
+               <l>'Tis wanton Women, that for benefit</l>
+               <l>Will venture to increaſe their ſinfull ſtores,</l>
+               <l>And to that purpoſe impudently ſit;</l>
+               <l>To take men up as they do paſſe their doores:</l>
+               <l>But I could wiſh an Order would come forth,</l>
+               <l>To puniſh theſe according to their worth.</l>
+            </lg>
+            <q>How weake is thine Heart, ſaith the Lord God, ſeeing thou doeſt all theſe things, even the worke of a preſumptuous whoriſh woman? <bibl>Ezek. 16. 30.</bibl>
+            </q>
+            <lg>
+               <l>'Tis Wine that makes men commonly ſurmiſe</l>
+               <l>Which way to walke for to fulfill their luſt,</l>
+               <l>And new-found fopperies for to deviſe,</l>
+               <pb n="21" facs="tcp:119554:11"/>
+               <l>That are obnoxious, hatefull, and unjuſt:</l>
+               <l>Each hanſome Face is a ſufficient tie,</l>
+               <l>If it be new, to uſe immodeſty.</l>
+            </lg>
+            <q>Thou haſt ſhewed thy people heavy things: thou haſt made us to drink the wine of giddines. <bibl>Pſa. 60. 3</bibl>
+            </q>
+            <lg>
+               <l>'Tis the exceſſe of Wine that makes men rove,</l>
+               <l>Darting their eyes at each looſe Laſſe they meet,</l>
+               <l>Forſaking childiſhly their firſt-borne Love,</l>
+               <l>For fain'd affection pick't up in the ſtreet;</l>
+               <l>But ſure it is a ſigne of ignorance,</l>
+               <l>To ſlight true Love, for Love that's met by chance.</l>
+            </lg>
+            <q>They ſhall not drinke wine with mirth: strong drinke ſhall be bitter to them that drinke it. There is a crying for wine in the ſtreets: all joy is darke<g ref="char:EOLhyphen"/>ned: the mirth of the world is gone away. <bibl>Jſa. 24. 9. 11</bibl>
+            </q>
+            <lg>
+               <l>'Tis wanton Women that do captivate</l>
+               <l>And ſnare too many poore men now adayes,</l>
+               <l>Either by beauty, or a ſtately gate,</l>
+               <l>They practiſe, when they trip ſo many wayes:</l>
+               <l>Your chiefeſt cauſe your Harlots walk by night,</l>
+               <l>Is 'cauſe they do not love to walke aright.</l>
+            </lg>
+            <q>Deſire not her beauty in thine heart, neither let her take thee with her eye-lids: For becauſe of a whoriſh woman, man is brought to a Morſell of Bread. <bibl>Pro. 6. 25. 26.</bibl>
+            </q>
+            <lg>
+               <l>And no man doth deny, but it is VVine</l>
+               <l>That doth incourage Cowards for to fight;</l>
+               <pb n="22" facs="tcp:119554:12"/>
+               <l>Yet 'may be, take this man another time<g ref="char:punc">▪</g>
+               </l>
+               <l>And hee'le not venture to ſecure his right:</l>
+               <l>God unto none denies his fruitfull Grapes,</l>
+               <l>Yet he reſtraines 'em when they make us Apes.</l>
+            </lg>
+            <q>VVhoredome, and wine, and new wine, take a<g ref="char:EOLhyphen"/>way their heart. <bibl>Hoſea 4. 11.</bibl>
+            </q>
+            <lg>
+               <l>'Tis Wine which makes fond men without a cauſe<g ref="char:punc">▪</g>
+               </l>
+               <l>Retard the precepts of Almighty God,</l>
+               <l>And daily violate <hi>Jehovah's</hi> Lawes</l>
+               <l>VVith ſuch ridiculous and abſurd applaud;</l>
+               <l>For now each imbecile and tippling Sot</l>
+               <l>Conceives Gods Vineyard is an Ace too hot.</l>
+            </lg>
+            <q>The ſonne of man came eating and drinking, and they ſay, behold a glutton and a drinker of wine, a friend unto Publicans and ſinners: but wiſedome is juſtified of her Children. <bibl>Matthew 11. 19.</bibl>
+            </q>
+            <lg>
+               <l>Women are very powerfull, that can</l>
+               <l>Make men forſake the <hi>Elizeum</hi> of their youth,</l>
+               <l>And ſo to ſtupifie a knowing man,</l>
+               <l>That he forſakes the way of life and truth;</l>
+               <l>Tis a ſad thing, when God doth give us meanes</l>
+               <l>For to live chaſt, that we ſhould cheriſh queanes</l>
+            </lg>
+            <q>Behold, all that uſe Proverbs ſhall uſe this pro<g ref="char:EOLhyphen"/>verbe against thee, ſaying, As is the mother ſo is her daughter. <bibl>Ezek. 16. 44.</bibl>
+            </q>
+            <lg>
+               <l>'Tis wanton Women that impaire the ſtore</l>
+               <l>Of men that had large talents not long ſince,</l>
+               <pb n="23" facs="tcp:119554:12"/>
+               <l>But now obſcenity has made them poore,</l>
+               <l>As doth appeare by ſad experience:</l>
+               <l>Is't not a ſhame that we ſhould God implore,</l>
+               <l>To lend us meanes to give unto a whore?</l>
+            </lg>
+            <q>But he that committeth adultery with a woman, is voyd of understanding: he that doth it, deſtroy<g ref="char:EOLhyphen"/>eth his owne Soule. <bibl>Pro. 6. 32.</bibl>
+            </q>
+            <lg>
+               <l>'Tis Wine that makes bad men for to refraine,</l>
+               <l>And follow that which is apparent ill,</l>
+               <l>Taking felicity in what is vaine,</l>
+               <l>Maugre all precepts preſt to croſſe his will:</l>
+               <l>Surely in Wine there is a kind of charme,</l>
+               <l>That that which doth me good, ſhould do me harme.</l>
+            </lg>
+            <q>And they gave him to drinke wine mingled with myrrhe: but he received it not. <bibl>Marke 15. 23.</bibl>
+            </q>
+            <lg>
+               <l>'Tis wanton Women frequently ſeduces</l>
+               <l>Men for to live extravagant and rude,</l>
+               <l>Making them run to riot and profuſes,</l>
+               <l>They have ſuch fine quaint wayes for to delude;</l>
+               <l>For having ſpent your portion, they cry then,</l>
+               <l>Faith Sir good morrow, we are for other men.</l>
+            </lg>
+            <q>For wicked <hi>Athaliah</hi> and her children brake up the houſe of God: and all the things that were de<g ref="char:EOLhyphen"/>dicate for the houſe of the Lord, did they beſtow upon Baalim. <bibl>2 Chron. 24 7.</bibl>
+            </q>
+            <lg>
+               <l>It is the love of Wine that makes men keepe</l>
+               <l>Both from his wife and children night and day;</l>
+               <pb n="24" facs="tcp:119554:13"/>
+               <l>His wife perceiving of it, falls to weepe,</l>
+               <l>And her poore Lambs they fall as faſt to play;</l>
+               <l>Their father proves an Alchymiſt moſt fine,</l>
+               <l>And turnes his Childrens bread to draughts of wine.</l>
+            </lg>
+            <q>Keep not company with drunkards, nor with glut<g ref="char:EOLhyphen"/>tons: For the drunkard and the glutton ſhalbe poore, and the ſleeper ſhall be cloathed with ragges. <bibl>Pro. 23. 20. 21.</bibl>
+            </q>
+            <lg>
+               <l>Immodeſt Women ſet themſelves to ſale,</l>
+               <l>Wearing their necks and boſomes conſtant bare,</l>
+               <l>And 'cauſe with ſome or other they'le prevaile,</l>
+               <l>They paint their faces criſpe and curle their haire,</l>
+               <l>And for the lucre of ſome halfe a Crowne,</l>
+               <l>They'l take you up, before you'r hardly down.</l>
+            </lg>
+            <q>Then the Scribes and the Phariſes brought unto him a woman taken in adultery, and ſet her in the midſt: And ſaid unto him, Master, this woman was taken in adultery, in the very act. <bibl>John 8. 3. 4.</bibl>
+            </q>
+            <lg>
+               <l>'Tis VVine that makes uncivill men forget;</l>
+               <l>And keepe all companies they meet withall,</l>
+               <l>And doth the boyes of <hi>Bacchus</hi> ſo reſpect,</l>
+               <l>That he forgets who tis that doth him cal:</l>
+               <l>Firſt his burn'd wine, and then his wine that's rawer,</l>
+               <l>And whoſoere call's him, he call's the Drawer.</l>
+            </lg>
+            <q>Let him kiſſe me with the kiſſes of his mouth, for thy love is better then wine: we will remember thy love more then wine, the righteous do love thee. <bibl>Cant. 1. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 3.</bibl>
+            </q>
+            <lg>
+               <pb n="25" facs="tcp:119554:13"/>
+               <l>'Tis wanton women, as you have underſtood,</l>
+               <l>That would ſuppreſſe all vertuous thoughts with<g ref="char:EOLhyphen"/>in ye,</l>
+               <l>And at the firſt will make a ſhew of good,</l>
+               <l>That at the laſt they may the better win ye:</l>
+               <l>Whilſt your coyne laſts they'l ſhew a hanſome leg,</l>
+               <l>But when that's gone, they'l ſhew you how to begge.</l>
+            </lg>
+            <q>Such is the way alſo of an adulterous woman ſhe eateth and wipeth her mouth, and ſaith, I have not committed iniquitie. <bibl>Pro. 30. 20.</bibl>
+            </q>
+            <lg>
+               <l>'Tis the exceſſe of VVine that makes men waſt,</l>
+               <l>And care ſo little for their precious time,</l>
+               <l>Still harbouring vicious thoughts that are unchaſt,</l>
+               <l>And round invelloped with filth and ſlime:</l>
+               <l>A Man is never fit for acts Divine,</l>
+               <l>That fits himſelf to quaffe up bowles of wine.</l>
+            </lg>
+            <q>But they have erred becauſe of wine, and are out of the way by strong drinke. <bibl>Jſa. 28. 7.</bibl>
+            </q>
+            <lg>
+               <l>'Tis envious women whoſe invective tongues</l>
+               <l>Makes ſlander ſtill their common receptacle,</l>
+               <l>And in their boſomes weares anothers wrongs;</l>
+               <l>Their minds and diſpoſitions are ſo ſickle:</l>
+               <l>I had rather by a Sword receive a wrong,</l>
+               <l>Then to be bitten by a womans tongue.</l>
+            </lg>
+            <q>Then ſaid his wife unto him, Doeſt thou continue yet in thy uprightnes I blaſpheme God, and dye: But he ſaid unto her, thou ſpeakeſt like a fooliſh woman: what? ſhall we receive good at the hands of God, and not receive evill, <bibl>Job 2. 9. 10.</bibl>
+            </q>
+            <lg>
+               <pb n="26" facs="tcp:119554:14"/>
+               <l>'Tis Wine makes men ſo careleſſe and remiſſe</l>
+               <l>In many duties that concernes their good,</l>
+               <l>And quite caſt off their deare-bought happineſſe,</l>
+               <l>At no leſſe value then their <hi>Makers</hi> Blood:</l>
+               <l>And therefore we may very well conclude,</l>
+               <l>No ſin but one out vyes ingratitude.</l>
+            </lg>
+            <q>Yet the chiefe Butler did not remember <hi>Joſeph,</hi> but forgate him. <bibl>Gen. 40. 23.</bibl>
+            </q>
+            <lg>
+               <l>It is the Love of Harlots often makes</l>
+               <l>A Man to venture both his limbs and life,</l>
+               <l>And 'tis for them alone that he forſakes,</l>
+               <l>And many times rejects his vertuous wife:</l>
+               <l>Forbiden Fruit a Man may daily meet,</l>
+               <l>As he doth Death, yet neither may be ſweet.</l>
+            </lg>
+            <q>And the woman ſaid unto the Serpens, we eats of the fruit of the trees of the Garden. <bibl>Gen. 3. 2.</bibl>
+            </q>
+            <lg>
+               <l>'Tis Wine that cauſes redneſſe in the Eyes,</l>
+               <l>And couches miſchiefe cloſely in the mind,</l>
+               <l>Making a Man heroick acts deſpiſe,</l>
+               <l>And weave from good to ill with every wind,</l>
+               <l>No thought that's permanent can long remaine</l>
+               <l>In a beſotted and unſtable Braine.</l>
+            </lg>
+            <q>Though I fed them to the full yet they commit<g ref="char:EOLhyphen"/>ted Adultery, and aſſembled themſelves by troops in Harlots houſes. <bibl>Jer. 5. 7.</bibl>
+            </q>
+            <lg>
+               <l>It is impetious Women that deviſe</l>
+               <l>New-fangled faſhions every day to weare,</l>
+               <pb n="27" facs="tcp:119554:14"/>
+               <l>And deck their gownes with rich imbroderies<g ref="char:punc">▪</g>
+               </l>
+               <l>When poore weake talonts challenges a ſhare:</l>
+               <l>But doubtles 'tis no wonder for to ſee</l>
+               <l>A haughty woman link't to levity.</l>
+            </lg>
+            <q>For I will gather all Nations against <hi>Jeruſalem</hi> to battle, and the Citie ſhall be taken, and the houſes ſpoyled, &amp; the women defiled, and halfe of the Citie ſhall go into captivitie, and the reſidue of the people ſhall not be cut off from the Citie. <bibl>Zech. 14. 2.</bibl>
+            </q>
+            <lg>
+               <l>And 'tis as true that wine hath quite undone</l>
+               <l>And diſſipated many of their wealth,</l>
+               <l>Becauſe like Mercuries they lov'd to run</l>
+               <l>To that which conſtantly impaires the health:</l>
+               <l>What can a Man that loves his charge do worſe,</l>
+               <l>Then fill his Cups, and empty ſtill his Purſe?</l>
+            </lg>
+            <q>For it is ſufficient for us that we have ſpent the time of our life paſt, in the Lusts of the Gentiles, walking in wantonneſſe luſts, drunkenneſſe, gluttony, drinkings. <bibl>1 Peter 4. 3.</bibl>
+            </q>
+            <lg>
+               <l>By women many mighty ones have bin</l>
+               <l>VVrapt in a ſheet of Lead and direfull duſt,</l>
+               <l>Becauſe he us'd celeritie in ſinne,</l>
+               <l>And traverſt wayes unſeemly and unjuſt:</l>
+               <l>By following Harlots no man can do well;</l>
+               <l>Becauſe ſhe leads point-blank to death and hell.</l>
+            </lg>
+            <q>For of this ſort are they that creepe into houſes, and lead captive ſimple women, laden with ſinnes, and led with divers lusts. <bibl>2 Tim. 3. 6.</bibl>
+            </q>
+            <lg>
+               <pb n="28" facs="tcp:119554:15"/>
+               <l>Wine hath another property beſide,</l>
+               <l>It doth extenuate our Love to God,</l>
+               <l>And builds the fabricke of our faith ſo wide,</l>
+               <l>That nothing which is good can we applaud:</l>
+               <l>They that do uſe it very ſeldome thrives,</l>
+               <l>But gets a ſwift <hi>exordium</hi> for their Lives.</l>
+            </lg>
+            <q>So that when he heareth the words of this curſe, he bleſſe himſelfe in his heart, ſaying, I ſhall have peace, although I walke according to the ſtubburn<g ref="char:EOLhyphen"/>neſſe of mine owne heart, thus adding drunkenneſſe to thirst. <bibl>Deut. 29. 19.</bibl>
+            </q>
+            <lg>
+               <l>'Tis envious Women, in a troubled State,</l>
+               <l>That do incenſe their Husbands to rebell.</l>
+               <l>Which makes their Children ſo unfortunate,</l>
+               <l>And all their Actions for to thrive ſo well:</l>
+               <l>By their advice they preſently take fire.</l>
+               <l>At any motion that will mount 'em higher.</l>
+            </lg>
+            <q>There ſhall be no VVhore of the Daughters of <hi>Iſrael,</hi> neither ſhall there be a VVhore-keeper of the ſonnes of Iſrael. <bibl>Deut. 23. 17.</bibl>
+            </q>
+            <lg>
+               <l>By Wine the prudent'ſt men that lives on earth,</l>
+               <l>One time or other harh bin much deceiv'd,</l>
+               <l>And given their ſenſuall wombs untimely birth,</l>
+               <l>Mans great antagoniſts ſo quaintly weav'd:</l>
+               <l>Then having faults within, and foes without us,</l>
+               <l>I preſuppoſe 'tis time to looke about us.</l>
+            </lg>
+            <q>And the drinking was by an order, none might compell: for ſo the King had appointed unto all the
+<pb n="29" facs="tcp:119554:15"/> Officers of his houſe, that they ſhould do according to every mans pleaſure. <bibl>Eſter 1. 8.</bibl>
+            </q>
+            <lg>
+               <l>By women mighty <hi>Monarchs</hi> hath bin ſlaine,</l>
+               <l>And left their large &amp; vaſt commands behind 'em,</l>
+               <l>And ſoftly ſtole away to bliſſe or paine,</l>
+               <l>For all their friends ſo cloſely had inſhrin'd 'em;</l>
+               <l>'Tis a ſad thing me thinkes, we ſhould imbrace</l>
+               <l>And hug our ruine for a hanſome Face.</l>
+            </lg>
+            <q>And <hi>Abimelech</hi> came unto the tower and fought againſt it, and went hard unto the doore of the tower to ſet it on fire: But a certain woman caſt a peece of a milſtone upon <hi>Abimelechs</hi> head, &amp; brake his brain<g ref="char:EOLhyphen"/>pan. <bibl>Judges 9. 52. 53.</bibl>
+            </q>
+            <lg>
+               <l>'Tis wine that makes the modeſt now and then</l>
+               <l>Forget the ſimpathy they have with good,</l>
+               <l>And ſteere their actions like uncivill men,</l>
+               <l>By ſecret diſtillations of the Blood:</l>
+               <l>A cup or two revives the penſive Heart,</l>
+               <l>But many more, doth aggravate the ſmart.</l>
+            </lg>
+            <q>Drinke no longer water, but uſe a little wine for thy stomacks ſake, and thine often infirmities<g ref="char:punc">▪</g> 
+               <bibl>1 Tim. 5. 23.</bibl>
+            </q>
+            <lg>
+               <l>A <hi>Curtezan,</hi> of all the Creatures living,</l>
+               <l>Is very free of what ſhe counts her owne,</l>
+               <l>'Cauſe for the moſt part ſhe is ſtill a giving,</l>
+               <l>Yet hardly gets a thankes from any one:</l>
+               <l>And that which animates and makes her free,</l>
+               <l>Is her deboyſt and baſe ſcurrillity.</l>
+            </lg>
+            <q>
+               <pb n="30" facs="tcp:119554:16"/> And I find more bitter then Death the wom<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> whoſe heart is as nets and ſnares, and her hands as bands: he that is good before God, ſhall be deliver<g ref="char:EOLhyphen"/>ed from her, but the Sinner ſhall be taken by her, <bibl> Eccleſ. 7. 28.</bibl>
+            </q>
+            <lg>
+               <l>They that ſit long at wine the wine wil tame 'em,</l>
+               <l>Although they imprecate, curſe, ſweare and dam,</l>
+               <l>And though a little while it doth inflame 'em,</l>
+               <l>At laſt they 'le be as patient as a Lambe:</l>
+               <l>'Tis not carouſing healths that will procure</l>
+               <l>Mans health in ſickneſſe, not for halfe an houre.</l>
+            </lg>
+            <q>But the Lord awaked as one out of ſleep, and as a ſtrong man that after his wine cryes out. <bibl>Pſa. 78. 65.</bibl>
+            </q>
+            <lg>
+               <l>Briefly, 'tis Wine and Women hath undone</l>
+               <l>This Kingdome that's diſtracted, rent, and torne,</l>
+               <l>And made the lees of the Lords Wrath to run,</l>
+               <l>Till Prince and People had juſt cauſe to mourne;</l>
+               <l>And had not Clemency his Scepter ſway'd,</l>
+               <l>No doubt ere this we had bin all betray'd.</l>
+            </lg>
+            <q>Wherefore, be you not unwiſe, but understand what the will of the Lord is, and be not drunken with wine, wherein is exceſſe. <bibl>Eph. 5. 17. 18.</bibl>
+            </q>
+            <lg>
+               <l>Then ſince we know the cauſe 'tis very meet</l>
+               <l>We do reforme and rectifie our wayes,</l>
+               <l>For though <hi>Jehovah</hi> walkes with leaden feet,</l>
+               <l>He doth expect we ſhould not ſtand and gaze:</l>
+               <l>He that ſits idle in the Market place.</l>
+               <l>Hath little mind to worke, or little grace.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="apology">
+            <pb facs="tcp:119554:16"/>
+            <head>THE AVTHORS APOLO<g ref="char:EOLhyphen"/>gie to the worthy <hi>Patronizer,</hi> and cour<g ref="char:EOLhyphen"/>teous <hi>Accepter</hi> of his <hi>Summarie</hi> and ſmall <hi>Poem,</hi> Intituled <hi>VVine and VVomen.</hi>
+            </head>
+            <lg>
+               <l>Tis Charity to lend a Crutch ſometimes</l>
+               <l>To verſes that are lame, and feeble Lines.</l>
+            </lg>
+            <p>And here couches my incouragement.</p>
+            <lg>
+               <l>YOur candid wits caſt cenſures in this mould,</l>
+               <l>The man wo'd write far better and he could;</l>
+               <l>And whee realitie they cannot find,</l>
+               <l>As a ſufficien<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Proxie</hi> take the mind:</l>
+               <l>Therefore I hope you will accept my mite,</l>
+               <l>Although it pove two or three graines too light.</l>
+            </lg>
+            <closer>
+               <signed>In this confidence reſts your aſſured Servant, <hi>Ed. Foord.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:119554:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
